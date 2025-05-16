@@ -5,6 +5,7 @@ A C++17 implementation of the A* search algorithm that finds and visually render
 ---
 
 
+![image](https://github.com/user-attachments/assets/29df9037-c150-4ca1-b228-b3a65db20244)
 
 ## 🔍 Features
 
