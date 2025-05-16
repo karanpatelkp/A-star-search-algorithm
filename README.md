@@ -4,12 +4,7 @@ A C++17 implementation of the A* search algorithm that finds and visually render
 
 ---
 
-## 📸 Demo
 
-![Route Planner Demo](demo.gif)  
-<sub>*Replace this with your own demo GIF or image!*</sub>
-
----
 
 ## 🔍 Features
 
